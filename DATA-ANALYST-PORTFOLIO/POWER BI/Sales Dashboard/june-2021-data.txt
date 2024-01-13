@@ -1,0 +1,334 @@
+Wilone O'Kielt	New Zealand	Mint Chip Choco	17-Jun-21	10640	453	484
+Dennison Crosswaite	Canada	Eclairs	3-Jun-21	2037	56	204
+Ches Bonnell	Australia	Raspberry Choco	1-Jun-21	4648	2	203
+Kelci Walkden	New Zealand	Organic Choco Syrup	1-Jun-21	1575	56	79
+Kaine Padly	Canada	Almond Choco	4-Jun-21	1652	12	83
+Wilone O'Kielt	UK	Choco Coated Almonds	14-Jun-21	8379	160	381
+Rafaelita Blaksland	India	Milk Bars	29-Jun-21	1736	182	73
+Andria Kimpton	Australia	Eclairs	15-Jun-21	8617	86	862
+Madelene Upcott	UK	Drinking Coco	15-Jun-21	3556	5	137
+Gunar Cockshoot	UK	Peanut Butter Cubes	7-Jun-21	1071	147	90
+Brien Boise	USA	Drinking Coco	17-Jun-21	336	268	14
+Oby Sorrel	Australia	99% Dark & Pure	3-Jun-21	5292	179	265
+Marney O'Breen	Canada	Baker's Choco Chips	7-Jun-21	3458	7	289
+Rafaelita Blaksland	USA	Manuka Honey Choco	7-Jun-21	2261	11	91
+Ches Bonnell	India	Fruit & Nut Bars	14-Jun-21	5040	50	315
+Kaine Padly	India	Baker's Choco Chips	3-Jun-21	10409	340	947
+Gigi Bohling	India	Mint Chip Choco	29-Jun-21	5425	336	217
+Madelene Upcott	USA	Raspberry Choco	29-Jun-21	6111	192	255
+Rafaelita Blaksland	Australia	Orange Choco	17-Jun-21	4445	234	178
+Ches Bonnell	UK	Orange Choco	14-Jun-21	154	156	6
+Gigi Bohling	UK	Peanut Butter Cubes	17-Jun-21	140	51	12
+Wilone O'Kielt	New Zealand	50% Dark Bites	9-Jun-21	2793	427	112
+Gunar Cockshoot	India	Milk Bars	7-Jun-21	8456	126	368
+Husein Augar	Canada	Peanut Butter Cubes	22-Jun-21	1022	65	114
+Dotty Strutley	New Zealand	Smooth Sliky Salty	15-Jun-21	2401	144	93
+Beverie Moffet	India	99% Dark & Pure	14-Jun-21	5824	173	324
+Barr Faughny	UK	99% Dark & Pure	15-Jun-21	672	88	34
+Madelene Upcott	USA	Peanut Butter Cubes	8-Jun-21	1813	138	202
+Barr Faughny	Australia	85% Dark Bars	21-Jun-21	4914	174	182
+Madelene Upcott	UK	Eclairs	2-Jun-21	7049	136	705
+Brien Boise	USA	Manuka Honey Choco	3-Jun-21	2555	64	107
+Gigi Bohling	USA	50% Dark Bites	28-Jun-21	4753	165	164
+Jan Morforth	Canada	Raspberry Choco	7-Jun-21	3283	199	127
+Brien Boise	Canada	Peanut Butter Cubes	3-Jun-21	938	53	118
+Rafaelita Blaksland	UK	After Nines	14-Jun-21	7532	98	343
+Wilone O'Kielt	USA	Organic Choco Syrup	8-Jun-21	8897	144	387
+Kelci Walkden	India	Spicy Special Slims	21-Jun-21	5411	195	417
+Gigi Bohling	New Zealand	Peanut Butter Cubes	15-Jun-21	2709	51	301
+Gunar Cockshoot	India	50% Dark Bites	2-Jun-21	5187	293	179
+Madelene Upcott	Canada	Orange Choco	9-Jun-21	5915	32	237
+Beverie Moffet	Canada	Choco Coated Almonds	4-Jun-21	4606	136	201
+Dotty Strutley	Australia	White Choc	16-Jun-21	13391	440	893
+Dotty Strutley	New Zealand	Fruit & Nut Bars	14-Jun-21	1442	87	97
+Beverie Moffet	USA	Mint Chip Choco	7-Jun-21	6307	3	263
+Brien Boise	USA	Mint Chip Choco	22-Jun-21	4914	205	205
+Beverie Moffet	New Zealand	85% Dark Bars	28-Jun-21	2478	83	100
+Madelene Upcott	Australia	Choco Coated Almonds	11-Jun-21	2842	66	130
+Gunar Cockshoot	Australia	Raspberry Choco	17-Jun-21	11536	134	502
+Kelci Walkden	UK	Milk Bars	1-Jun-21	11004	288	424
+Dennison Crosswaite	India	After Nines	21-Jun-21	294	112	13
+Beverie Moffet	USA	50% Dark Bites	30-Jun-21	427	32	18
+Kaine Padly	India	Almond Choco	25-Jun-21	5621	74	296
+Husein Augar	UK	Smooth Sliky Salty	1-Jun-21	5964	239	249
+Dotty Strutley	Australia	Organic Choco Syrup	14-Jun-21	6356	220	318
+Rafaelita Blaksland	Australia	Organic Choco Syrup	22-Jun-21	3682	250	161
+Curtice Advani	Australia	99% Dark & Pure	10-Jun-21	1449	168	73
+Oby Sorrel	New Zealand	Baker's Choco Chips	22-Jun-21	889	24	60
+Rafaelita Blaksland	USA	Raspberry Choco	15-Jun-21	9618	70	357
+Wilone O'Kielt	Canada	Baker's Choco Chips	29-Jun-21	168	394	16
+Kaine Padly	Canada	Milk Bars	8-Jun-21	5026	74	210
+Ches Bonnell	USA	Peanut Butter Cubes	7-Jun-21	2877	215	288
+Curtice Advani	UK	Orange Choco	2-Jun-21	6160	387	247
+Wilone O'Kielt	USA	99% Dark & Pure	9-Jun-21	4221	156	212
+Oby Sorrel	Australia	Almond Choco	30-Jun-21	84	272	4
+Jan Morforth	New Zealand	50% Dark Bites	21-Jun-21	91	175	4
+Kelci Walkden	UK	Manuka Honey Choco	11-Jun-21	3255	19	126
+Wilone O'Kielt	USA	Smooth Sliky Salty	7-Jun-21	7602	434	331
+Oby Sorrel	Canada	99% Dark & Pure	7-Jun-21	5460	342	304
+Barr Faughny	Canada	Peanut Butter Cubes	17-Jun-21	4984	65	623
+Gigi Bohling	Australia	Choco Coated Almonds	4-Jun-21	1064	26	45
+Brien Boise	New Zealand	Choco Coated Almonds	14-Jun-21	1365	91	69
+Wilone O'Kielt	Australia	White Choc	14-Jun-21	427	241	33
+Marney O'Breen	UK	Smooth Sliky Salty	14-Jun-21	15981	85	695
+Curtice Advani	USA	Baker's Choco Chips	3-Jun-21	8456	54	705
+Kaine Padly	USA	White Choc	21-Jun-21	9527	241	561
+Brien Boise	UK	Fruit & Nut Bars	17-Jun-21	329	376	22
+Jan Morforth	Canada	Mint Chip Choco	24-Jun-21	4046	146	169
+Ches Bonnell	Australia	Orange Choco	11-Jun-21	6482	69	241
+Rafaelita Blaksland	Canada	Almond Choco	14-Jun-21	7238	11	381
+Beverie Moffet	India	Orange Choco	21-Jun-21	8722	159	324
+Madelene Upcott	USA	Spicy Special Slims	17-Jun-21	4886	212	489
+Karlen McCaffrey	USA	Raspberry Choco	4-Jun-21	2415	20	97
+Gunar Cockshoot	Canada	85% Dark Bars	2-Jun-21	1561	217	63
+Beverie Moffet	Australia	50% Dark Bites	25-Jun-21	2191	441	79
+Dotty Strutley	UK	Manuka Honey Choco	14-Jun-21	2919	231	109
+Rafaelita Blaksland	India	White Choc	15-Jun-21	3367	314	241
+Kelci Walkden	UK	Raspberry Choco	29-Jun-21	1925	102	75
+Kaine Padly	USA	Organic Choco Syrup	24-Jun-21	980	101	47
+Karlen McCaffrey	UK	Fruit & Nut Bars	4-Jun-21	833	155	56
+Karlen McCaffrey	India	Spicy Special Slims	14-Jun-21	2891	514	241
+Madelene Upcott	UK	Baker's Choco Chips	29-Jun-21	4102	185	293
+Barr Faughny	Canada	50% Dark Bites	9-Jun-21	3535	8	136
+Jan Morforth	UK	Eclairs	17-Jun-21	8267	33	689
+Beverie Moffet	Canada	Peanut Butter Cubes	7-Jun-21	364	177	41
+Madelene Upcott	New Zealand	Choco Coated Almonds	14-Jun-21	1253	52	63
+Andria Kimpton	UK	Almond Choco	11-Jun-21	6160	120	343
+Rafaelita Blaksland	USA	Almond Choco	10-Jun-21	11788	196	621
+Madelene Upcott	Canada	Spicy Special Slims	4-Jun-21	3563	461	396
+Gunar Cockshoot	New Zealand	Eclairs	9-Jun-21	3094	261	282
+Ches Bonnell	New Zealand	Smooth Sliky Salty	24-Jun-21	504	79	20
+Kaine Padly	India	Mint Chip Choco	17-Jun-21	2380	471	104
+Brien Boise	India	Peanut Butter Cubes	11-Jun-21	4263	100	356
+Gunar Cockshoot	Canada	70% Dark Bites	7-Jun-21	7917	45	792
+Ches Bonnell	New Zealand	Milk Bars	16-Jun-21	1372	70	55
+Husein Augar	Australia	Choco Coated Almonds	7-Jun-21	7063	270	322
+Jan Morforth	Australia	Choco Coated Almonds	17-Jun-21	3675	181	160
+Gunar Cockshoot	Australia	After Nines	29-Jun-21	3598	375	157
+Oby Sorrel	Canada	Peanut Butter Cubes	17-Jun-21	273	245	35
+Dotty Strutley	India	Orange Choco	29-Jun-21	2667	452	103
+Rafaelita Blaksland	USA	Peanut Butter Cubes	15-Jun-21	4291	205	477
+Ches Bonnell	Canada	Manuka Honey Choco	1-Jun-21	742	598	31
+Andria Kimpton	Canada	Manuka Honey Choco	18-Jun-21	1127	70	41
+Wilone O'Kielt	India	Organic Choco Syrup	8-Jun-21	5453	191	248
+Marney O'Breen	USA	Smooth Sliky Salty	24-Jun-21	2443	71	107
+Husein Augar	New Zealand	Orange Choco	10-Jun-21	5348	20	206
+Andria Kimpton	UK	Drinking Coco	22-Jun-21	2177	6	99
+Brien Boise	India	After Nines	2-Jun-21	2338	14	107
+Marney O'Breen	Australia	Orange Choco	22-Jun-21	2072	373	74
+Barr Faughny	India	Smooth Sliky Salty	15-Jun-21	5082	168	189
+Beverie Moffet	UK	99% Dark & Pure	4-Jun-21	1148	110	55
+Brien Boise	New Zealand	Peanut Butter Cubes	15-Jun-21	616	163	69
+Brien Boise	UK	Eclairs	18-Jun-21	224	203	18
+Curtice Advani	Australia	After Nines	21-Jun-21	1953	230	82
+Beverie Moffet	New Zealand	Milk Bars	16-Jun-21	12068	166	525
+Kaine Padly	UK	Eclairs	2-Jun-21	3955	131	305
+Jan Morforth	USA	Choco Coated Almonds	3-Jun-21	2149	159	94
+Wilone O'Kielt	India	85% Dark Bars	8-Jun-21	4851	116	180
+Kaine Padly	USA	85% Dark Bars	22-Jun-21	42	97	2
+Gigi Bohling	New Zealand	50% Dark Bites	28-Jun-21	0	127	0
+Oby Sorrel	UK	Baker's Choco Chips	14-Jun-21	3052	163	278
+Ches Bonnell	India	Manuka Honey Choco	28-Jun-21	154	125	7
+Madelene Upcott	Australia	Organic Choco Syrup	16-Jun-21	707	100	38
+Dotty Strutley	India	Baker's Choco Chips	9-Jun-21	5950	6	397
+Gigi Bohling	Canada	Raspberry Choco	8-Jun-21	2205	74	89
+Kelci Walkden	New Zealand	After Nines	7-Jun-21	6580	240	275
+Oby Sorrel	India	Organic Choco Syrup	15-Jun-21	623	51	32
+Rafaelita Blaksland	UK	Organic Choco Syrup	1-Jun-21	3437	45	150
+Rafaelita Blaksland	USA	Mint Chip Choco	8-Jun-21	3892	87	177
+Rafaelita Blaksland	New Zealand	Orange Choco	21-Jun-21	371	268	15
+Gunar Cockshoot	New Zealand	Baker's Choco Chips	2-Jun-21	4879	290	444
+Oby Sorrel	USA	White Choc	28-Jun-21	1197	231	86
+Dotty Strutley	Australia	Milk Bars	17-Jun-21	1932	303	88
+Kelci Walkden	Canada	85% Dark Bars	15-Jun-21	5425	13	227
+Ches Bonnell	UK	Almond Choco	15-Jun-21	1701	217	101
+Jan Morforth	India	Eclairs	8-Jun-21	1925	47	149
+Ches Bonnell	Canada	After Nines	4-Jun-21	5019	479	219
+Kelci Walkden	USA	Fruit & Nut Bars	21-Jun-21	1106	32	70
+Kaine Padly	USA	Mint Chip Choco	17-Jun-21	4263	346	194
+Oby Sorrel	USA	Almond Choco	29-Jun-21	1407	16	75
+Jan Morforth	Canada	Manuka Honey Choco	3-Jun-21	1120	3	44
+Kelci Walkden	UK	Eclairs	21-Jun-21	2401	382	185
+Dennison Crosswaite	India	Manuka Honey Choco	11-Jun-21	3472	79	134
+Gunar Cockshoot	New Zealand	Caramel Stuffed Bars	4-Jun-21	3206	112	229
+Brien Boise	Canada	Raspberry Choco	15-Jun-21	693	116	29
+Gunar Cockshoot	India	Smooth Sliky Salty	15-Jun-21	3668	230	147
+Beverie Moffet	USA	Almond Choco	7-Jun-21	4228	458	212
+Rafaelita Blaksland	Australia	Smooth Sliky Salty	17-Jun-21	98	4	4
+Barr Faughny	Australia	Mint Chip Choco	7-Jun-21	1708	202	69
+Madelene Upcott	UK	Organic Choco Syrup	1-Jun-21	1981	87	95
+Andria Kimpton	UK	99% Dark & Pure	16-Jun-21	2492	97	125
+Beverie Moffet	USA	Organic Choco Syrup	1-Jun-21	3920	31	171
+Kaine Padly	New Zealand	Orange Choco	1-Jun-21	3430	330	128
+Barr Faughny	New Zealand	50% Dark Bites	29-Jun-21	2730	132	98
+Wilone O'Kielt	USA	Baker's Choco Chips	23-Jun-21	2268	175	189
+Ches Bonnell	New Zealand	Orange Choco	17-Jun-21	3227	165	130
+Dotty Strutley	UK	Choco Coated Almonds	29-Jun-21	1785	361	82
+Husein Augar	USA	Fruit & Nut Bars	14-Jun-21	6734	158	375
+Dennison Crosswaite	New Zealand	Spicy Special Slims	18-Jun-21	2037	375	204
+Husein Augar	UK	Raspberry Choco	14-Jun-21	6076	210	234
+Curtice Advani	New Zealand	Fruit & Nut Bars	11-Jun-21	3192	252	188
+Rafaelita Blaksland	India	Drinking Coco	15-Jun-21	3752	148	157
+Jan Morforth	New Zealand	Spicy Special Slims	4-Jun-21	2009	205	224
+Barr Faughny	New Zealand	Almond Choco	4-Jun-21	3500	203	195
+Rafaelita Blaksland	USA	Choco Coated Almonds	7-Jun-21	2737	49	115
+Curtice Advani	USA	Eclairs	15-Jun-21	1722	87	173
+Jan Morforth	UK	Orange Choco	22-Jun-21	9233	78	342
+Beverie Moffet	New Zealand	Baker's Choco Chips	14-Jun-21	4613	305	308
+Rafaelita Blaksland	USA	Orange Choco	15-Jun-21	238	80	9
+Gigi Bohling	Australia	Milk Bars	29-Jun-21	5817	120	253
+Wilone O'Kielt	India	White Choc	1-Jun-21	1834	202	131
+Beverie Moffet	Canada	Drinking Coco	10-Jun-21	13622	100	545
+Beverie Moffet	UK	Choco Coated Almonds	3-Jun-21	497	244	25
+Gigi Bohling	Australia	Peanut Butter Cubes	28-Jun-21	1813	41	152
+Rafaelita Blaksland	UK	Manuka Honey Choco	14-Jun-21	2177	157	91
+Husein Augar	UK	70% Dark Bites	14-Jun-21	13937	149	1549
+Marney O'Breen	India	Fruit & Nut Bars	9-Jun-21	2394	291	126
+Barr Faughny	UK	Spicy Special Slims	10-Jun-21	1897	230	146
+Curtice Advani	Australia	White Choc	10-Jun-21	4326	177	333
+Brien Boise	Canada	After Nines	9-Jun-21	3780	126	165
+Rafaelita Blaksland	India	Raspberry Choco	21-Jun-21	532	64	21
+Oby Sorrel	New Zealand	99% Dark & Pure	28-Jun-21	630	149	38
+Dotty Strutley	India	White Choc	16-Jun-21	1253	108	84
+Barr Faughny	Canada	Orange Choco	14-Jun-21	889	29	33
+Curtice Advani	UK	Eclairs	3-Jun-21	3612	198	301
+Oby Sorrel	Australia	Fruit & Nut Bars	3-Jun-21	462	243	31
+Karlen McCaffrey	UK	Choco Coated Almonds	17-Jun-21	1848	77	84
+Oby Sorrel	USA	85% Dark Bars	11-Jun-21	5810	235	243
+Jan Morforth	New Zealand	Eclairs	23-Jun-21	3500	270	350
+Beverie Moffet	Australia	Drinking Coco	9-Jun-21	301	592	13
+Barr Faughny	New Zealand	White Choc	23-Jun-21	2814	240	188
+Marney O'Breen	Australia	Smooth Sliky Salty	1-Jun-21	5159	155	192
+Dennison Crosswaite	Canada	Choco Coated Almonds	11-Jun-21	728	77	34
+Ches Bonnell	Canada	50% Dark Bites	3-Jun-21	2758	35	107
+Beverie Moffet	USA	Eclairs	28-Jun-21	6027	111	548
+Dotty Strutley	New Zealand	Baker's Choco Chips	3-Jun-21	8274	180	690
+Husein Augar	Australia	Orange Choco	15-Jun-21	3192	131	128
+Andria Kimpton	India	Peanut Butter Cubes	14-Jun-21	2912	76	324
+Brien Boise	India	70% Dark Bites	17-Jun-21	4578	336	417
+Marney O'Breen	New Zealand	Choco Coated Almonds	7-Jun-21	2863	277	137
+Kaine Padly	India	85% Dark Bars	14-Jun-21	7098	302	263
+Jan Morforth	India	Raspberry Choco	22-Jun-21	357	66	14
+Gunar Cockshoot	Australia	Baker's Choco Chips	4-Jun-21	6482	292	590
+Jan Morforth	USA	Mint Chip Choco	22-Jun-21	9128	106	435
+Beverie Moffet	New Zealand	White Choc	9-Jun-21	1533	72	91
+Husein Augar	UK	Fruit & Nut Bars	11-Jun-21	1904	109	119
+Gunar Cockshoot	New Zealand	Almond Choco	17-Jun-21	11445	186	603
+Beverie Moffet	Canada	Almond Choco	22-Jun-21	3822	61	213
+Dotty Strutley	India	After Nines	15-Jun-21	1113	167	49
+Jan Morforth	Australia	Orange Choco	9-Jun-21	28	191	1
+Dotty Strutley	Australia	70% Dark Bites	9-Jun-21	9436	227	1049
+Gunar Cockshoot	UK	Organic Choco Syrup	7-Jun-21	9506	324	453
+Marney O'Breen	Canada	Caramel Stuffed Bars	7-Jun-21	5789	125	414
+Madelene Upcott	New Zealand	Fruit & Nut Bars	22-Jun-21	378	132	23
+Kaine Padly	Canada	Organic Choco Syrup	16-Jun-21	3528	30	154
+Gigi Bohling	Canada	85% Dark Bars	15-Jun-21	63	186	3
+Ches Bonnell	USA	Mint Chip Choco	4-Jun-21	7630	47	332
+Dotty Strutley	USA	Almond Choco	29-Jun-21	196	85	11
+Gunar Cockshoot	UK	Orange Choco	11-Jun-21	427	210	16
+Gunar Cockshoot	New Zealand	White Choc	17-Jun-21	7644	66	510
+Rafaelita Blaksland	Australia	85% Dark Bars	15-Jun-21	5691	228	204
+Barr Faughny	India	White Choc	2-Jun-21	6538	357	467
+Husein Augar	Canada	Raspberry Choco	14-Jun-21	637	441	25
+Oby Sorrel	India	White Choc	21-Jun-21	1722	188	108
+Jan Morforth	New Zealand	Peanut Butter Cubes	8-Jun-21	9240	11	924
+Dennison Crosswaite	Australia	Drinking Coco	17-Jun-21	987	2	42
+Andria Kimpton	New Zealand	Orange Choco	18-Jun-21	5950	230	206
+Rafaelita Blaksland	UK	Raspberry Choco	4-Jun-21	5369	231	207
+Husein Augar	Australia	99% Dark & Pure	14-Jun-21	4529	23	252
+Wilone O'Kielt	UK	Orange Choco	8-Jun-21	10115	142	405
+Dotty Strutley	USA	Drinking Coco	1-Jun-21	3675	109	168
+Wilone O'Kielt	Canada	Smooth Sliky Salty	21-Jun-21	14707	148	545
+Husein Augar	USA	Caramel Stuffed Bars	21-Jun-21	476	151	32
+Madelene Upcott	Canada	Eclairs	11-Jun-21	4459	199	406
+Wilone O'Kielt	UK	Eclairs	23-Jun-21	3801	83	317
+Gigi Bohling	USA	99% Dark & Pure	14-Jun-21	6370	33	354
+Kelci Walkden	USA	After Nines	16-Jun-21	3626	174	152
+Jan Morforth	New Zealand	Smooth Sliky Salty	24-Jun-21	9968	99	370
+Oby Sorrel	India	Spicy Special Slims	28-Jun-21	11809	203	1074
+Ches Bonnell	Australia	Spicy Special Slims	18-Jun-21	4515	63	502
+Dennison Crosswaite	UK	Spicy Special Slims	10-Jun-21	4312	174	432
+Curtice Advani	USA	Milk Bars	28-Jun-21	420	136	17
+Dennison Crosswaite	India	Drinking Coco	7-Jun-21	1057	346	43
+Rafaelita Blaksland	UK	Mint Chip Choco	21-Jun-21	763	97	35
+Wilone O'Kielt	Australia	Mint Chip Choco	29-Jun-21	1491	267	60
+Kelci Walkden	UK	Orange Choco	22-Jun-21	7903	150	317
+Madelene Upcott	India	Raspberry Choco	3-Jun-21	371	222	17
+Wilone O'Kielt	Australia	Drinking Coco	4-Jun-21	9023	215	376
+Ches Bonnell	Canada	Peanut Butter Cubes	7-Jun-21	462	189	39
+Oby Sorrel	Australia	Baker's Choco Chips	8-Jun-21	4802	128	321
+Kelci Walkden	USA	Mint Chip Choco	9-Jun-21	2268	301	99
+Brien Boise	UK	Spicy Special Slims	29-Jun-21	1162	13	97
+Karlen McCaffrey	UK	Raspberry Choco	7-Jun-21	3857	133	168
+Brien Boise	USA	Caramel Stuffed Bars	9-Jun-21	7574	56	583
+Beverie Moffet	UK	Raspberry Choco	4-Jun-21	1169	249	44
+Madelene Upcott	New Zealand	Raspberry Choco	9-Jun-21	1470	77	59
+Husein Augar	New Zealand	Drinking Coco	28-Jun-21	1309	55	53
+Beverie Moffet	India	50% Dark Bites	22-Jun-21	3759	209	151
+Gigi Bohling	UK	Organic Choco Syrup	28-Jun-21	2520	168	110
+Wilone O'Kielt	New Zealand	Milk Bars	17-Jun-21	5698	95	238
+Brien Boise	USA	70% Dark Bites	14-Jun-21	5565	33	506
+Beverie Moffet	Australia	After Nines	14-Jun-21	4151	210	167
+Gigi Bohling	USA	After Nines	21-Jun-21	3325	161	145
+Andria Kimpton	New Zealand	Choco Coated Almonds	10-Jun-21	2835	116	119
+Gunar Cockshoot	USA	Caramel Stuffed Bars	3-Jun-21	1988	14	166
+Ches Bonnell	Australia	Organic Choco Syrup	9-Jun-21	4704	369	205
+Ches Bonnell	USA	85% Dark Bars	17-Jun-21	5453	68	228
+Madelene Upcott	New Zealand	Mint Chip Choco	11-Jun-21	7413	413	297
+Husein Augar	USA	Baker's Choco Chips	18-Jun-21	5614	231	401
+Brien Boise	Australia	85% Dark Bars	28-Jun-21	3122	301	131
+Karlen McCaffrey	India	70% Dark Bites	11-Jun-21	1652	183	236
+Marney O'Breen	New Zealand	Mint Chip Choco	14-Jun-21	8596	275	410
+Husein Augar	Canada	Baker's Choco Chips	9-Jun-21	5481	123	457
+Wilone O'Kielt	New Zealand	Choco Coated Almonds	11-Jun-21	6874	250	328
+Madelene Upcott	USA	Eclairs	11-Jun-21	3822	71	319
+Andria Kimpton	USA	Drinking Coco	28-Jun-21	2380	31	104
+Madelene Upcott	India	Almond Choco	11-Jun-21	1519	166	85
+Brien Boise	Australia	Smooth Sliky Salty	29-Jun-21	1295	264	52
+Ches Bonnell	Canada	Almond Choco	23-Jun-21	5845	81	279
+Oby Sorrel	Australia	Eclairs	2-Jun-21	6496	123	591
+Oby Sorrel	UK	Spicy Special Slims	8-Jun-21	6860	205	763
+Barr Faughny	New Zealand	Caramel Stuffed Bars	3-Jun-21	3962	175	248
+Beverie Moffet	Australia	Fruit & Nut Bars	15-Jun-21	7427	38	391
+Dennison Crosswaite	India	Caramel Stuffed Bars	1-Jun-21	2688	429	168
+Beverie Moffet	Australia	Mint Chip Choco	28-Jun-21	3668	37	167
+Karlen McCaffrey	New Zealand	70% Dark Bites	1-Jun-21	7259	74	1037
+Karlen McCaffrey	India	Raspberry Choco	22-Jun-21	7532	218	279
+Karlen McCaffrey	Australia	Caramel Stuffed Bars	28-Jun-21	2247	24	150
+Kelci Walkden	Canada	Eclairs	29-Jun-21	7553	177	630
+Beverie Moffet	New Zealand	Mint Chip Choco	3-Jun-21	917	323	37
+Dennison Crosswaite	Canada	85% Dark Bars	15-Jun-21	2142	97	77
+Oby Sorrel	New Zealand	50% Dark Bites	15-Jun-21	1162	196	41
+Husein Augar	Canada	Mint Chip Choco	17-Jun-21	2457	79	107
+Gunar Cockshoot	UK	99% Dark & Pure	17-Jun-21	6223	202	297
+Husein Augar	USA	Organic Choco Syrup	28-Jun-21	7987	62	364
+Gigi Bohling	New Zealand	Smooth Sliky Salty	2-Jun-21	13818	161	512
+Husein Augar	New Zealand	85% Dark Bars	4-Jun-21	3486	333	125
+Brien Boise	Canada	Mint Chip Choco	1-Jun-21	8988	91	391
+Curtice Advani	New Zealand	Drinking Coco	15-Jun-21	6349	416	289
+Karlen McCaffrey	Canada	85% Dark Bars	22-Jun-21	2905	340	117
+Marney O'Breen	UK	White Choc	7-Jun-21	4186	134	280
+Kelci Walkden	Canada	White Choc	17-Jun-21	7	214	1
+Karlen McCaffrey	India	Choco Coated Almonds	1-Jun-21	301	368	15
+Beverie Moffet	New Zealand	Raspberry Choco	4-Jun-21	9744	80	424
+Rafaelita Blaksland	Canada	Manuka Honey Choco	11-Jun-21	7329	15	282
+Beverie Moffet	India	Fruit & Nut Bars	4-Jun-21	3129	148	185
+Marney O'Breen	India	99% Dark & Pure	2-Jun-21	2583	224	144
+Karlen McCaffrey	UK	85% Dark Bars	4-Jun-21	7049	236	282
+Madelene Upcott	New Zealand	White Choc	21-Jun-21	2898	36	182
+Karlen McCaffrey	Canada	After Nines	16-Jun-21	287	38	12
+Husein Augar	UK	Drinking Coco	17-Jun-21	8036	293	335
+Ches Bonnell	Australia	White Choc	9-Jun-21	5593	53	431
+Madelene Upcott	UK	Milk Bars	4-Jun-21	1498	76	63
+Gunar Cockshoot	USA	After Nines	14-Jun-21	5320	126	213
+Gigi Bohling	UK	White Choc	10-Jun-21	3563	334	238
+Karlen McCaffrey	New Zealand	85% Dark Bars	8-Jun-21	777	238	30
+Gunar Cockshoot	New Zealand	Milk Bars	16-Jun-21	5684	26	237
+Jan Morforth	Australia	Spicy Special Slims	8-Jun-21	6314	162	702
+Curtice Advani	UK	Smooth Sliky Salty	14-Jun-21	4571	2	170
+Andria Kimpton	UK	Spicy Special Slims	29-Jun-21	1106	11	93
+Wilone O'Kielt	Australia	85% Dark Bars	3-Jun-21	3367	139	135
+Rafaelita Blaksland	USA	70% Dark Bites	16-Jun-21	980	44	123
+Andria Kimpton	Canada	Drinking Coco	18-Jun-21	4837	35	187
+Curtice Advani	UK	White Choc	3-Jun-21	7364	26	434
+Jan Morforth	USA	50% Dark Bites	8-Jun-21	6769	78	271
