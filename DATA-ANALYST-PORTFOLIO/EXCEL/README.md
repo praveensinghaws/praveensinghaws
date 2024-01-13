@@ -1,5 +1,18 @@
 #### I APPRICIATE YOUR INTREST IN MY EXCEL PORTFOLIO. 
-* PLEASE DO FIND MY WORK ON EXCEL VIA THIS LINK 
+* ABOUT
 
 
-https://www.canva.com/design/DAFdrRT376E/z1Nv_fbSAF9VXERRIO6QCQ/view?utm_content=DAFdrRT376E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+As a data analyst, I have a strong background in data cleaning, transformation, and validation using various data Analysis tools. For this portfolio, I will be focusing on  Microsoft Excel showcasing some Excel Dashboards. 
+
+PERSONAL SKILLS
+
+EXCEL SKILLS
+Excel Skills Included: Data Cleaning, Data formatting , Data
+Consolidation, Data Extraction, Data Analysis, Pivot Table,
+XLOOKUP, VLOOKUP, HLOOKUP, INDEX and MATCH, Data
+validation, Data visualization, Interactive Dashboards, Data
+Protection. E.t.c
+
+OTHER TOOLS
+SQL, Power Bi, Python
+
