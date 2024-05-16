@@ -15,12 +15,10 @@ Thank you, looking forward to hearing from you.
     <img src="https://komarev.com/ghpvc/?username=praveensinghaws&label=Profile%20views&color=0e75b6&style=flat" alt="praveensinghaws" width="150" height="25" /> 
 </a>
 
-
     
 <a href="https://www.youtube.com/@praveenanalyst" target="_blank">
-    <img alt="YouTube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/@praveenanalyst?style=for-the-badge&labelColor=CE4630&logo=youtube&logoColor=white"/>
-</a>
-
+       <img alt="YouTube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/@praveenanalyststyle=for-the-badge&labelColor=CE4630&logo=youtube&logoColor=white"/>
+    </a>
     <a href="https://www.linkedin.com/in/praveensinghaws/" target="_blank">
         <img alt="LinkedIn" title="Follow me on LinkedIn" src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin"/>
     </a> 
