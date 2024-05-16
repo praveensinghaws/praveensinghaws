@@ -52,8 +52,8 @@ Thank you, looking forward to hearing from you.
 <img align="left" alt="Pandas" width="40px" style="padding-right:10px;" src="icon/pandas.png" />
 <img align="left" alt="Matplotlib" width="40px" style="padding-right:10px;" src="icon/matplotlib.png" />
 <img align="left" alt="NumPy" width="40px" style="padding-right:10px;" src="icon/numpy.png" />
-<img align="left" alt="Seaborn" width="40px" style="padding-right:10px;" src="icon/seaborn.png" />
-<img align="left" alt="Scikit-learn" width="40px" style="padding-right:10px;" src="icon/scikit_learn.png" />
+<!-- <img align="left" alt="Seaborn" width="40px" style="padding-right:10px;" src="icon/seaborn.png" /> -->
+<!-- <img align="left" alt="Scikit-learn" width="40px" style="padding-right:10px;" src="icon/scikit_learn.png" /> -->
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
 
