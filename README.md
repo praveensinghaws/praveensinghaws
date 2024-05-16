@@ -17,7 +17,7 @@ Thank you, looking forward to hearing from you.
 
 
     
-<a href="https://www.youtube.com/channel/UCE0EFAek35wazXAIKawmDHw?sub_confirmation=1" target="_blank">
+<a href="https://www.youtube.com/@praveenanalyst" target="_blank">
        <img alt="YouTube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCE0EFAek35wazXAIKawmDHw?style=for-the-badge&labelColor=CE4630&logo=youtube&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/praveensinghaws/" target="_blank">
